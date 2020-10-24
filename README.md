@@ -12,3 +12,4 @@ I'd also programmed in PHP and Python early on in my web development career and 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: It is a myth that we only use 10 percent of our brain. We actually use all of it. We’re even using more than 10 percent when we sleep
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=echelonnought)](https://github.com/anuraghazra/github-readme-stats)
