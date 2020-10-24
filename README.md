@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there 👋
 
 
-**echelonnought/echelonnought** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ngole Lawson from Buea, Cameroon, but my close friends call me echelonnought. I'm a fullstack JavaScript Developer, and I fancy solving problems using this tool.
+I'd also programmed in PHP and Python early on in my web development career and I'd never stop pushing myself to learn more. I love following best practices when writing code so I ensure to keep it clean and readable as much as possible. When I'm not coding, I immerse my mind in good music and meditation. 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on several projects for my portfolio
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning more on data structures and algos
+- 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about JavaScript 
+- 📫 How to reach me: @ngole_lawson
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: It is a myth that humans only use 10 percent of our brain. We actually use all of it. We’re even using more than 10 percent when we sleep
 
