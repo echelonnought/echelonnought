@@ -1,6 +1,6 @@
 ### Hi there 👋, Ngole Lawson
 #### Fullstack Softwware Developer
-![Fullstack Softwware Developer](https://inteng-storage.s3.amazonaws.com/img/iea/nR6bkXZxwo/sizes/software-engineering-skills_md.jpg)
+![Fullstack Softwware Developer](https://image.shutterstock.com/image-illustration/orange-blue-technology-background-circuit-260nw-664284277.jpg)
 
 I'm Ngole Lawson from Buea, Cameroon, but my close friends call me echelonnought. I'm a fullstack JavaScript Developer, and I fancy solving problems using this tool. I'd also programmed in PHP and Python early on in my web development career and I'd never stop pushing myself to learn more. I love following best practices when writing code so I ensure to keep it clean and readable as much as possible. When I'm not coding, I immerse my mind in good music and meditation.
 
@@ -22,5 +22,4 @@ Skills:  REACT / JS / HTML / CSS/ ANGULAR
 [![trophy](https://github-profile-trophy.vercel.app/?username=echelonnought)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=echelonnought&show_icons=true)  
-
 
