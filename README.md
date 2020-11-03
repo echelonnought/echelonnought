@@ -6,7 +6,7 @@ Skills:  REACT / JS / HTML / CSS/ ANGULAR
 
 - 🔭 I’m currently working on  several projects for my portfolio 
 - 🌱 I’m currently learning more on data structures and algos 
-- 👯 I’m looking to collaborate on  collaborate on Open Source Projects 
+- 👯 I’m looking to collaborate on Open Source Projects 
 - 💬 Ask me about JavaScript 
 - 📫 How to reach me: [@ngole_lawson](https://twitter.com/ngole_lawson) 
 - 😄 Pronouns: He/Him 
