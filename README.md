@@ -17,5 +17,4 @@ Skills:  REACT / JS / HTML / CSS/ ANGULAR
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=echelonnought)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=echelonnought&show_icons=true)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=echelonnought&show_icons=true) 
